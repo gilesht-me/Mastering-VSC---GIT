@@ -1,2 +1,3 @@
 hello!
 this is line 2
+bug fix
