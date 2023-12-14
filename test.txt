@@ -2,3 +2,4 @@ hello!
 this is line 2
 line 1 from feature 1
 line 2 from feature 1
+bug fix
